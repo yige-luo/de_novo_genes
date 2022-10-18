@@ -26,10 +26,10 @@ all_motif_hits_lst[["abd-A"]] %>%
 # A tibble: 6 x 2
 # type                       n
 # <chr>                  <int>
-#   1 AG_specific_expression  1739
+#   1 AG_specific_expression   138
 # 2 allgenes                3383
 # 3 dn                        31
-# 4 expressed_genes          138
+# 4 expressed_genes         1739
 # 5 intergenic_seq           296
 # 6 unann_in_outgroups        56
 
@@ -41,10 +41,10 @@ all_motif_hits_lst[["abd-A"]] %>%
 # A tibble: 6 x 2
 # type                       n
 # <chr>                  <int>
-#   1 AG_specific_expression  1530
+#   1 AG_specific_expression   120
 # 2 allgenes                2921
 # 3 dn                        28
-# 4 expressed_genes          120
+# 4 expressed_genes         1530
 # 5 intergenic_seq           249
 # 6 unann_in_outgroups        46
 
